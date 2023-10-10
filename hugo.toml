@@ -1,0 +1,7 @@
+baseURL = 'https://inescontilde11.github.io/DAWHugoPage/'
+languageCode = 'en-us'
+title = 'Mi gato tiene un blog'
+theme='universal'
+
+[params]
+   style = "violet"
